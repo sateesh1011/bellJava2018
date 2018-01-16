@@ -1,3 +1,21 @@
-sasasa
-
-hai
+cd /c
+ls
+cd git1011/
+ls
+git clone  https://github.com/sateesh1011/bellJava2018
+ls
+cd belljava2018/
+ls
+git add.
+git commit -m "testing"
+git config --global user.email "sateesh1011@gamil.com"
+git config --global user.name "sateesh1011"
+git commit -m "testing"
+git push
+git branch
+git checkout -b develop
+git branch
+git status
+git commit -m "pushing changes"
+git push
+git push --set-upstream origin develop
