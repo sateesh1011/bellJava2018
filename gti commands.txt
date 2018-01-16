@@ -14,6 +14,7 @@ git commit -m "testing"
 git push
 git branch
 git checkout -b develop
+git checkout master
 git branch
 git status
 git commit -m "pushing changes"
