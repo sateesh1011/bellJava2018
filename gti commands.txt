@@ -20,3 +20,7 @@ git status
 git commit -m "pushing changes"
 git push
 git push --set-upstream origin develop
+-->//to pull all remote branches//
+git fetch
+git branch-r
+-->
